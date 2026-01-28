@@ -32,4 +32,10 @@ O projeto foi pensado para demonstrar boas práticas de UI/UX, organização de 
 
 ---
 
+# Instalar dependências
+npm install
+
+# Rodar em modo desenvolvimento
+npm run dev
+
 
